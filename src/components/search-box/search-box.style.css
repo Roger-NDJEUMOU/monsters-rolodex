@@ -1,0 +1,10 @@
+.search {
+  border: 2px solid burlywood;
+  border-radius: 10px;
+  line-height: 5vh;
+  margin-bottom: 2rem;
+  outline: none;
+  padding: 10px;
+  text-align: center;
+  width: 10rem;
+}
